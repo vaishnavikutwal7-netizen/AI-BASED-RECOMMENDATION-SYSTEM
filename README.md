@@ -116,7 +116,11 @@ Managing data using Java collections.
 
 Writing clean and modular code.
 
-This project serves as a foundation for more advanced recommendation systems that may use machine learning algorithms, collaborative filtering, or user behavior analysis
+This project serves as a foundation for more advanced recommendation systems that may use machine learning algorithms, collaborative filtering, or user behavior analysis.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/422a0c74-a14a-482f-9f9d-f907a491ab60)
 
 
 
